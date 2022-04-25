@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **landoncaouette/landoncaouette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-
+<div class="header" style="display:flex; justify-content:space-evenly;">
+	<div class="stats">	
+		![Landons's GitHub stats](https://github-readme-stats.vercel.app/api?username=landoncaouette&show_icons=true&theme=panda)
+	</div>
+	<div class="top-langs">
+		[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=landoncaouette&layout=compact&theme=panda)](https://twitter.com/LandonCaouette)
+	</div>	
+</div>
