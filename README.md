@@ -24,12 +24,13 @@
   I am a carpenter who loves technology and is in the process of learning web development.
   
   ---
-  ### :hammer_and_wrench: Languages
+  ### :hammer_and_wrench: Languages & Frameworks
   
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS3" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" title="Ruby" alt="Ruby" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" title="Ruby on Rails" alt="Ruby on Rails" width="60" height="60"/>&nbsp;
   
    ---
