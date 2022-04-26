@@ -19,7 +19,7 @@
   
   
   ---
-  ### :grey_question: Who am i
+  ### :grey_question: Who am I
    
   I am a carpenter who loves technology and is in the process of learning web development.
   
