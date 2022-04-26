@@ -19,12 +19,12 @@
   
   
   ---
-  ### :grey_question: WHOAMI
+  ### :grey_question: Who am i
    
   I am a carpenter who loves technology and is in the process of learning web development.
   
   ---
-  ### :hammer_and_wrench: Languages:
+  ### :hammer_and_wrench: Languages
   
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="60" height="60"/>&nbsp;
@@ -34,7 +34,7 @@
   
    ---
   
-###  :metal: My Stats :
+###  :metal: My Stats
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=landoncaouette&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=landoncaouette&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
