@@ -1,6 +1,6 @@
 <h1>
   Hey
-  <img src="https://media.giphy.com/media/YSlD6I04v4s9pgwPcT/giphy.gif" width="35px"/>
+  <img src="https://media.giphy.com/media/YSlD6I04v4s9pgwPcT/giphy.gif" width="30px"/>
 </h1>
 
 <div align="center">
